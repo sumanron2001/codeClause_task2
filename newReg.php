@@ -53,8 +53,5 @@ if($n!=NULL && $e!=NULL && $c!=NULL && $_POST['pass']!=NULL)
 <a href="index.php" class="link">HOME</a>
 </div>
 </body>
-<!-- 
-Designed &amp; Developed by Ashish Vegan! ||| https://www.ashishvegan.com
-For Customize Project Contact +919890345539 | Please Subscribe Tech Vegan YouTube Channel
--->
+
 </html>
