@@ -85,8 +85,5 @@ while($y=mysqli_fetch_array($x))
 
 </div>
 </body>
-<!-- 
-Designed &amp; Developed by Ashish Vegan! ||| https://www.ashishvegan.com
-For Customize Project Contact +919890345539 | Please Subscribe Tech Vegan YouTube Channel
--->
+
 </html>
