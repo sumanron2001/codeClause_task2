@@ -57,15 +57,10 @@ if($_POST['aid']!=NULL && $_POST['pass']!=NULL)
 <a href="index.php" class="link">BACK</a>
 </div>
 </body>
-<!-- 
-Designed &amp; Developed by Ashish Vegan! ||| https://www.ashishvegan.com
-For Customize Project Contact +919890345539 | Please Subscribe Tech Vegan YouTube Channel
--->
+
 <br />
 <br />
 
-<div align="center">
-<span class="subHead">First Subscribe Tech Vegan YouTube Channel then use this Project. <a href="https://www.youtube.com/channel/UCs_dbtq_OF-0HxkAQnBGapA?sub_confirmation=1">Click Here to Subscribe</a></span>
-</div>
+
 
 </html>
